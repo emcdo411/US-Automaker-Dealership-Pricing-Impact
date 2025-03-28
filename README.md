@@ -167,7 +167,7 @@ This project offers a comprehensive and data-driven approach to understanding th
 
 ### Explore the full code and data visualizations in the repository:
 
-[**GitHub Repo**](https://github.com/yourusername/US-Automaker-Dealership-Pricing-Impact)
+[**GitHub Repo**](https://github.com/emcdo411/US-Automaker-Dealership-Pricing-Impact/tree/main)
 
 ---
 
